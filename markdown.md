@@ -22,4 +22,4 @@ Para saber más sobre [Markdown](https://markdown.es) visita el enlace.
 | --- | --- | --- |
 | Inés Pernil Romero | 2ºDAW | Francisco |
 
-[images/imagen2.png](http://iesabdera.blogspot.com/)
+[<img src="images/imagen2.png">](http://iesabdera.blogspot.com/)
